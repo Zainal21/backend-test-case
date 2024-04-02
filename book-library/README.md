@@ -93,7 +93,7 @@
 
 ## Tech Stack
 
-**Library and Framework:** Nest JS, TypeORM, class-validator, dotenv, mysql2, etc
+**Library and Framework:** Nest JS, TypeORM, class-validator, dotenv, mysql2, yarn package manager etc
 
 ## Installation
 
@@ -104,7 +104,7 @@ $ git clone git@github.com:Zainal21/backend-test-case
 $ cd book-library
 ```
 
-2. Create `.env` file from [`.env.sample`](./.env.example)
+2. Create `.env` file from [`.env.example`](./.env.example)
 
 ```bash
 $ cp .env.example .env
